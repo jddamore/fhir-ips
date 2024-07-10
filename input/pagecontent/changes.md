@@ -8,6 +8,7 @@ This change list provides an overview and detail of changes in STU 1.1.  This pu
 - Additional narrative guidance (Github Branch: https://github.com/HL7/fhir-ips/pull/27) 
 - Terminology Updates (Github Branch: https://github.com/HL7/fhir-ips/pull/30) 
 - Publication clean-up (Github Branch: https://github.com/HL7/fhir-ips/pull/23 and commits in Sept/Oct 2022)
+- here's a new thing
 
 Detailed change list for 1.1.0 since 1.0.0 includes: 
 
